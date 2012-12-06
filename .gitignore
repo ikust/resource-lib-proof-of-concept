@@ -1,0 +1,5 @@
+.DS_Store
+consumer/gen
+consumer/bin
+resource-lib/gen
+resource-lib/bin
